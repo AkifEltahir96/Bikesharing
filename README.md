@@ -14,9 +14,9 @@ August Peak Hours: [Link](link)
 Checkout Times By Users: [Link](link)
 Checkout Times By Gender: [Link](link)
 Weekday For Each Hour: [Link](link)
-Gender (Weekday per Hour): [https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/GenderbyWeekday](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/GenderbyWeekday)
+Gender (Weekday per Hour): [Gender](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/GenderbyWeekday)
 Gender (by Weekday): [Link](link)
 
-
+[https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/GenderbyWeekday](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/GenderbyWeekday)
 
 ## Summary
