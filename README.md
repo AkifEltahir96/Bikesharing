@@ -8,14 +8,16 @@ The purpose of this analysis is to gain the support of investors to invest in a 
 ### Descriptions
 All descriptions for visualizations are underneath the visualizations in Tableau.
 
-### Links
+### Links & Screenshots
 1. [Customers vs. Suscribers](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
-2. [August Peak Hours](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
-3. [Checkout Times By Users](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-4. [Checkout Times By Gender](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-5. [Weekday for Each Hour](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-6. [Gender (weekday per Hour)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-7. [Gender (by Weekday)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Customers vs. Suscribers](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Customers-vs-Suscribers.png)
+
+3. [August Peak Hours](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
+4. [Checkout Times By Users](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+5. [Checkout Times By Gender](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+6. [Weekday for Each Hour](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+7. [Gender (weekday per Hour)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+8. [Gender (by Weekday)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
 
 ## Summary
 
