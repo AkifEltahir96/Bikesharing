@@ -12,12 +12,23 @@ All descriptions for visualizations are underneath the visualizations in Tableau
 1. [Customers vs. Suscribers](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
 ![Customers vs. Suscribers](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Customers-vs-Suscribers.png)
 
-3. [August Peak Hours](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
-4. [Checkout Times By Users](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-5. [Checkout Times By Gender](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-6. [Weekday for Each Hour](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-7. [Gender (weekday per Hour)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
-8. [Gender (by Weekday)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+2. [August Peak Hours](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauModule_16370039371860/NYCStory?publish=yes)
+![August Peak Hours](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/August-Peak-Hours.png)
+
+3. [Checkout Times By Users](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Checkout Times By Users](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Checkout-Times-By-Users.png)
+
+4. [Checkout Times By Gender](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Checkout Times By Gender](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Checkout-Times-By-Gender.png)
+
+5. [Weekday for Each Hour](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Weekday for Each Hour](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Weekday-By-Hour.png)
+
+6. [Gender (weekday per Hour)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Gender (weekday per Hour)](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Weekday-By-Hour-And-Gender.png)
+
+7. [Gender (by Weekday)](https://public.tableau.com/app/profile/akif.eltahir/viz/TableauChallenge_16370152108520/NYCChallengeStory?publish=yes)
+![Gender (by Weekday)](https://github.com/AkifEltahir96/Bikesharing/blob/main/Pictures/Gender-by-Weekday.png)
 
 ## Summary
 
